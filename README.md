@@ -5,7 +5,7 @@ Para o gerenciamento e acesso aos dados, o projeto utiliza arquivos **JSON**, si
 
 
 ## 🌐 Acesso
-[E-Commerce](https://edgomes234.github.io/Spectra/)
+- [E-Commerce](https://edgomes234.github.io/Spectra/)
 
 <br>
 
