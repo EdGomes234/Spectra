@@ -4,7 +4,7 @@ O **Spectra** é um projeto de **E-commerce** desenvolvido com **JavaScript** no
 Para o gerenciamento e acesso aos dados, o projeto utiliza arquivos **JSON**, simulando uma base de dados.
 
 
-## Acesso
+## 🌐 Acesso
 [E-Commerce](https://edgomes234.github.io/Spectra/)
 
 <br>
